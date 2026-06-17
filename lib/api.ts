@@ -1,5 +1,5 @@
 const APP_SCRIPT_URL =
-  "https://script.google.com/macros/s/AKfycbyUr2AWTlar8StCHwPHtSQYO2MBflJlH7HiOM5nrFB_25l6PrAHiW89H7xCbdqaA2Gi2A/exec";
+  "https://script.google.com/macros/s/AKfycbz7plhdE69FLQcZAlPJR8_Ykqzi5dayhha-V_r5SXGQobU8V3kvcAlKvtqcVD9XLQhriQ/exec";
 
 // Global loading counter
 let _loadingCount = 0;
